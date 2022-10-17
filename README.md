@@ -1,5 +1,5 @@
 # Uma Musume TTS Gen - GUI
-A Gui frontend from project [](https://github.com/ReturnToFirst/uma-tts-vits)
+A Gui frontend from project [uma-tts-vits](https://github.com/ReturnToFirst/uma-tts-vits)
 
 1. Prepare the folder
 ```
